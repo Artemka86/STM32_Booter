@@ -1,0 +1,102 @@
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\a\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\CAN-Hacker_Windows\CAN-Hacker_Windows\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\a\Desktop\CH3\CAN-Hacker_Windows\1\CAN-Hacker_Windows_2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\4_KIA_Coding\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\4_KIA_plus_reading\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\KIA_0506_coding_super\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\A\Desktop\CH3\CAN-Hacker_Windows\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache

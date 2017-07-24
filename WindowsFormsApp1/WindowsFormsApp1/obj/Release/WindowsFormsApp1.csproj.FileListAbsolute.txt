@@ -1,0 +1,8 @@
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Юзер\Desktop\CH3\boot\BootLoader\BootLoader\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
