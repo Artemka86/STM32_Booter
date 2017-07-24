@@ -1,0 +1,1 @@
+f105_1_16_05_17\startup_stm32f105xc.o: startup_stm32f105xc.s
