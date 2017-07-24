@@ -578,18 +578,11 @@ ARM Macro Assembler    Page 9
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
 ork --depend=f105_1_16_05_17\startup_stm32f105xc.d -of105_1_16_05_17\startup_st
-m32f105xc.o -IC:\Users\ёзер\Desktop\CH3\boot\4_old_switch_new_comm\MDK-ARM\RTE\
-_F105_1_16_05_17 -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include -IC:\Keil_
-v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include --predefine="__MICROLIB SET
-A 1" --predefine="__UVISION_VERSION SETA 522" --predefine="_RTE_ SETA 1" --pred
-efine="STM32F10X_CL SETA 1" --list=startup_stm32f105xc.lst startup_stm32f105xc.
-
-
-
-ARM Macro Assembler    Page 10 
-
-
-s
+m32f105xc.o -IC:\Users\ёзер\Desktop\CH3\boot\Booter\STM32_Booter\MDK-ARM\RTE\_F
+105_1_16_05_17 -IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include -IC:\Keil_v5
+\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include --predefine="__MICROLIB SETA 
+1" --predefine="__UVISION_VERSION SETA 522" --predefine="_RTE_ SETA 1" --predef
+ine="STM32F10X_CL SETA 1" --list=startup_stm32f105xc.lst startup_stm32f105xc.s
 
 
 
